@@ -572,6 +572,13 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[ai-bom-mcp](https://github.com/CSOAI-ORG/ai-bom-mcp)** - AI Bill of Materials generator (CycloneDX ML-BOM 1.6 + SPDX 3.0 AI profile + EU AI Act Annex IV + NIST AI RMF). 10-category completeness audit + HMAC-signed attestations.
+- **[ai-incident-reporting-mcp](https://github.com/CSOAI-ORG/ai-incident-reporting-mcp)** - Unified AI incident reporting across EU AI Act Art 73, DORA Art 19, NIS2 Art 23, GDPR Art 33, ISO 42001, UK AISI. One incident → all regulatory clocks in parallel.
+- **[cra-compliance-mcp](https://github.com/CSOAI-ORG/cra-compliance-mcp)** - EU Cyber Resilience Act (Regulation (EU) 2024/2847) compliance — Annex I 13-requirement audit, conformity classifier, SBOM skeleton, signed attestations.
+- **[dora-compliance-mcp](https://github.com/CSOAI-ORG/dora-compliance-mcp)** - DORA (Regulation (EU) 2022/2554) compliance — all 5 pillars, Register of Information (Art 28), Delegated Reg 2024/1772 incident classification.
+- **[eu-ai-act-compliance-mcp](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp)** - EU AI Act (Regulation (EU) 2024/1689) compliance — risk classification, Article 10/11/14/43/73 audits, conformity path advisor, HMAC-signed attestations.
+- **[nis2-compliance-mcp](https://github.com/CSOAI-ORG/nis2-compliance-mcp)** - NIS2 Directive (EU) 2022/2555 compliance for 18 essential/important sectors. Article 20/21/23 audit, management-body accountability pack.
+
 
 ## Clients
 
