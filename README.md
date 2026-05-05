@@ -375,6 +375,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[elisp-dev-mcp](https://github.com/laurynas-biveinis/elisp-dev-mcp)** - elisp (Emacs Lisp) development support tools, running in Emacs.
 - **[Email](https://github.com/Shy2593666979/mcp-server-email)** - This server enables users to send emails through various email providers, including Gmail, Outlook, Yahoo, Sina, Sohu, 126, 163, and QQ Mail. It also supports attaching files from specified directories, making it easy to upload attachments along with the email content.
 - **[Email Send MCP](https://github.com/YUHAI0/email-send-mcp)** - A fixed one from above one. More user-friendly.
+- **[EU AI Act Compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp)** - EU AI Act compliance checking with risk classification, 42-point audit, documentation generation, penalty calculator, enforcement deadlines, and HMAC-signed attestations.
 - **[Everything Search](https://github.com/mamertofabian/mcp-everything-search)** - Fast Windows file search using Everything SDK
 - **[fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp)** - Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
