@@ -360,7 +360,9 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Creatify](https://github.com/TSavo/creatify-mcp)** - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
 - **[Contentful](https://github.com/ivo-toby/contentful-mcp)** - Interact with your content on the Contentful platform
 - **[consult7](https://github.com/szeider/consult7)** - Analyze large codebases and document collections using high-context models via OpenRouter, OpenAI, or Google AI -- very useful, e.g., with Claude Code
+- **[CRA Compliance](https://github.com/CSOAI-ORG/cra-compliance-mcp)** - EU Cyber Resilience Act compliance — Annex IV classification, vulnerability handling, SBOM requirements, and CE marking readiness for products with digital elements.
 - **[Data Exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** - MCP server for autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
+- **[DORA Compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp)** - EU Digital Operational Resilience Act compliance for financial services — ICT risk management, incident reporting, third-party oversight, and resilience testing assessments.
 - **[DropBin](https://dropbin.org/mcp)** - Remote SSE MCP server for hosting HTML webpages and sharing content through temporary URLs without authentication
 - **[Database](https://github.com/TheRaLabs/legion-mcp)** (by Legion AI) - Universal database MCP server supporting multiple database types including PostgreSQL, Redshift, CockroachDB, MySQL, RDS MySQL, Microsoft SQL Server, BigQuery, Oracle DB, and SQLite
 - **[Druid MCP Server](https://github.com/iunera/druid-mcp-server)** - STDIO/SEE MCP Server for Apache Druid by [iunera](https://www.iunera.com) that provides extensive tools, resources, and prompts for managing and analyzing Druid clusters.
@@ -373,6 +375,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Dolt](https://github.com/dolthub/dolt-mcp)** - The official MCP server for version-controlled Dolt databases.
 - **[DynamoDB-Toolbox](https://www.dynamodbtoolbox.com/docs/databases/actions/mcp-toolkit)** - Leverages your Schemas and Access Patterns to interact with your [DynamoDB](https://aws.amazon.com/dynamodb) Database using natural language.
 - **[elisp-dev-mcp](https://github.com/laurynas-biveinis/elisp-dev-mcp)** - elisp (Emacs Lisp) development support tools, running in Emacs.
+- **[EU AI Act Compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp)** - EU AI Act compliance checks including Article 6 risk classification, 42-point audit, Annex IV documentation generation, penalty calculator, and HMAC-signed attestations. Tracks Digital Omnibus deadline changes.
 - **[Email](https://github.com/Shy2593666979/mcp-server-email)** - This server enables users to send emails through various email providers, including Gmail, Outlook, Yahoo, Sina, Sohu, 126, 163, and QQ Mail. It also supports attaching files from specified directories, making it easy to upload attachments along with the email content.
 - **[Email Send MCP](https://github.com/YUHAI0/email-send-mcp)** - A fixed one from above one. More user-friendly.
 - **[Everything Search](https://github.com/mamertofabian/mcp-everything-search)** - Fast Windows file search using Everything SDK
@@ -455,6 +458,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
 - **[MKP](https://github.com/StacklokLabs/mkp)** - Model Kontext Protocol Server for Kubernetes that allows LLM-powered applications to interact with Kubernetes clusters through native Go implementation with direct API integration and comprehensive resource management.
 - **[MCP Open Library](https://github.com/8enSmith/mcp-open-library)** - A Model Context Protocol (MCP) server for the Open Library API that enables AI assistants to search for book and author information.
+- **[MCP Prompt Injection Scanner](https://github.com/CSOAI-ORG/meok-mcp-injection-scan-mcp)** - Detects prompt injection attacks in MCP tool inputs — OWASP LLM Top 10 coverage, real-time scanning, and severity scoring for AI agent security.
 - **[MCP-SearXNG-Enhanced Web Search](https://github.com/OvertliDS/mcp-searxng-enhanced)** - An enhanced MCP server for SearXNG web searching, utilizing a category-aware web-search, web-scraping, and includes a date/time retrieval tool.
 - **[Mermaid](https://github.com/hustcc/mcp-mermaid)** - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - **[Memory-Plus](https://github.com/Yuchen20/Memory-Plus)** a lightweight, local RAG memory store to record, retrieve, update, delete, and visualize persistent "memories" across sessions—perfect for developers working with multiple AI coders (like Windsurf, Cursor, or Copilot) or anyone who wants their AI to actually remember them.
@@ -472,6 +476,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Nextcloud Calendar](https://github.com/Cheffromspace/mcp-nextcloud-calendar)** - CalDAV Nectcloud calendar integration. Manage calendars, events, attendees, etc.
 - **[Nexus](https://github.com/adawalli/nexus)** - Web search server that integrates Perplexity Sonar models via OpenRouter API for real-time, context-aware search with citations
 - **[Nile Postgres](https://github.com/niledatabase/nile-mcp-server)** - Manage and query databases, tenants, users, auth using LLMs
+- **[NIS2 Compliance](https://github.com/CSOAI-ORG/nis2-compliance-mcp)** - EU NIS2 Directive compliance for critical infrastructure — essential/important entity classification, security measures gap analysis, and incident reporting workflows.
 - **[NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server)** - Manage NocoDB server, support read and write databases
 - **[NodeCodeStudio](https://nodecodestudio.com)** - Activate MCP services (Gmail, Calendar, WordPress, etc.) and run browser automation workflows via a Chrome extension with importable sequences
 - **[Notion](https://github.com/danhilse/notion_mcp)** - Integrates with Notion's API to manage personal todo list
