@@ -205,6 +205,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 - **[MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - Open source MCP server specializing in easy, fast, and secure tools for Databases.
 - **[Meilisearch](https://github.com/meilisearch/meilisearch-mcp)** - Interact & query with Meilisearch (Full-text & semantic search API)
+- **[MEOK Governance Suite](https://github.com/CSOAI-ORG)** - 38 AI compliance MCPs from MEOK AI Labs covering EU AI Act, DORA, NIS2, CRA, MiCA, MDR, FDA SaMD, COPPA/FERPA, AML, Basel III, MiFID II, CISA KEV, MITRE ATT&CK/ATLAS, SLSA, Sigstore, SBOM/CycloneDX, watermarking + C2PA, AI-BOM, bias detection, prompt-injection firewall, and more. HMAC-signed compliance attestations. Install via `npx meok-setup --pack governance`.
 - **[Mercado Libre](https://mcp.mercadolibre.com/)** - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - **[Mercado Pago](https://mcp.mercadopago.com/)** - Mercado Pago's official MCP server, offering tools to interact with our API, simplifying tasks and product integration.
 - **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
